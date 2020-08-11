@@ -17,7 +17,7 @@
 <label>Prénom:</label>
 <input type="text" name="prenom" value="votre prénom" ><br><br>
 <label>Date:</label>
-<input type="date" name="ladate" ><br><br>
+<input type="date" name="datenaissance" ><br><br>
 <fieldset>
 <legend>Lieu de naissance: </legend>
 <input type="radio" name="lieu" value="Saint Denis">Saint Denis
@@ -60,7 +60,5 @@
 </fieldset>
 <br>
 <footer> Formulaire réalisé dans le cadre du TP 2 de la formation de développeurs intégrateurs et codeurs web</footer>
-   
   </body>
-  
 </html>
